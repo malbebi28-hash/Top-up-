@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Diamond Top-Up Store",
+  "description": "Instant Free Fire diamond top-up store with flat 2% discount, PhonePe UPI payment, dynamic QR code, and WhatsApp order verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
